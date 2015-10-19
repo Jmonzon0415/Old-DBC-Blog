@@ -1,0 +1,14 @@
+header { background-image: url(http://www.artandcompany.net/uploads/9/3/5/2/9352723/761231_orig.jpg?858);
+		 background-size: cover;
+		 background-repeat: no-repeat; ;
+		text-align: center;
+		 font-family:courier;
+		 color: #EDEBE8;
+		 padding-bottom: 10%;
+		 margin-top:-2%; }
+
+
+ul li { font-family: courier;
+		font-size: 30px;}
+
+a:link{ text-decoration: none;}
