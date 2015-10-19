@@ -1,9 +1,17 @@
 html {background-color: #EDEBE8;}
 
 
-header { background-image: url()
+header { background-image: url(http://www.artandcompany.net/uploads/9/3/5/2/9352723/761231_orig.jpg?858);
+		 background-size: cover;
+		 background-repeat: no-repeat; ;
 		text-align: center;
-		 font-family:sans-serif; 
+		 font-family:courier;
+		 color: #EDEBE8;
+		 padding-bottom: 10%;
+		 margin-top:-2%;
+		 
+
+
 }
 
 
@@ -25,14 +33,30 @@ nav ul li {
 	padding-right: 10px}
 
 .button {border: 1px solid; 
-		font-family: Verdana ; 
+		 border-radius: 25px;
+		 background-image: url(http://www.artandcompany.net/uploads/9/3/5/2/9352723/761231_orig.jpg?858);
+		font-family: courier ; 
 		text-align: center;
-		font-weight: bold;}
+		font-weight: bold;
+		padding-left: 5px;
+		 }
 
-a:link {text-decoration: none;}
+
+a:link {text-decoration: none;
+		color: #EDEBE8;}
+
+
+a:visited {color: #EDEBE8; }
+
+a:hover {background-color: black; }
 
 article {text-align: center;
-		
-			}
+		font-family: courier;			}
 
-h2 {font-size: 30px}
+h2 {font-size: 30px;
+	font-weight: bold; 
+	text-decoration: underline;}
+
+footer {border: 1px solid;}
+
+
