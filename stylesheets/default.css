@@ -45,10 +45,9 @@ nav ul li {
 a:link {text-decoration: none;
 		color: #EDEBE8;}
 
-
-a:visited {color: #EDEBE8; }
-
 a:hover {background-color: black; }
+
+a:visited { }
 
 article {text-align: center;
 		font-family: courier;			}
@@ -58,5 +57,12 @@ h2 {font-size: 30px;
 	text-decoration: underline;}
 
 footer {border: 1px solid;}
+		
 
+footer ul li { display: inline-block; 
+			padding-top: 10px;
+			text-align: center;
+			font-family: courier;
+			padding-right: 20px;
+			padding-left: 10%;
 
